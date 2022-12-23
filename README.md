@@ -12,10 +12,6 @@ Your finished application will contain three tabbed activities:
 3. Screen Three is the ‘Order T-Shirt’ screen.
 
 
-## Screenshots
-
-![Screenshot showing For You screen, Interests screen and Topic detail screen](docs/images/screenshots.png "Screenshot showing For You screen, Interests screen and Topic detail screen")
-
 # Development Environment
 
 Android App uses the Gradle build system and can be imported directly into the latest stable version of Android Studio (available here). The debug build can be built and run using the default configuration.
