@@ -1,8 +1,6 @@
 Android App
 ==================
 
-**Learn how this app was designed and built in the [design case study](https://goo.gle/nia-figma), [architecture learning journey](docs/ArchitectureLearningJourney.md) and [modularization learning journey](docs/ModularizationLearningJourney.md).**
-
 The application you will develop will be an Online T-Shirt Provider 
 application
 
